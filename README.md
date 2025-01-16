@@ -23,3 +23,7 @@ Technologies Used:
 HTML: For structuring the web page.
 CSS: For styling and layout of the application.
 JavaScript: For adding interactivity, allowing the counter to increase, decrease, and reset.
+
+![image](https://github.com/user-attachments/assets/740bc80e-5563-4b5e-bd00-960485df4413)
+
+
